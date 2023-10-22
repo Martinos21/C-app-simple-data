@@ -1,0 +1,10 @@
+C:\Users\Martin\Desktop\forms project\Teplota finally\Teploměr\Teploměr\bin\Release\Teploměr.exe.config
+C:\Users\Martin\Desktop\forms project\Teplota finally\Teploměr\Teploměr\bin\Release\Teploměr.exe
+C:\Users\Martin\Desktop\forms project\Teplota finally\Teploměr\Teploměr\bin\Release\Teploměr.pdb
+C:\Users\Martin\Desktop\forms project\Teplota finally\Teploměr\Teploměr\obj\Release\Teploměr.csproj.AssemblyReference.cache
+C:\Users\Martin\Desktop\forms project\Teplota finally\Teploměr\Teploměr\obj\Release\Teploměr.Form1.resources
+C:\Users\Martin\Desktop\forms project\Teplota finally\Teploměr\Teploměr\obj\Release\Teploměr.Properties.Resources.resources
+C:\Users\Martin\Desktop\forms project\Teplota finally\Teploměr\Teploměr\obj\Release\Teploměr.csproj.GenerateResource.cache
+C:\Users\Martin\Desktop\forms project\Teplota finally\Teploměr\Teploměr\obj\Release\Teploměr.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Desktop\forms project\Teplota finally\Teploměr\Teploměr\obj\Release\Teploměr.exe
+C:\Users\Martin\Desktop\forms project\Teplota finally\Teploměr\Teploměr\obj\Release\Teploměr.pdb

@@ -1,0 +1,10 @@
+C:\Users\Martin\Desktop\forms project\Teplota finally\Teploměr\Teploměr\bin\Debug\Teploměr.exe.config
+C:\Users\Martin\Desktop\forms project\Teplota finally\Teploměr\Teploměr\bin\Debug\Teploměr.exe
+C:\Users\Martin\Desktop\forms project\Teplota finally\Teploměr\Teploměr\bin\Debug\Teploměr.pdb
+C:\Users\Martin\Desktop\forms project\Teplota finally\Teploměr\Teploměr\obj\Debug\Teploměr.Form1.resources
+C:\Users\Martin\Desktop\forms project\Teplota finally\Teploměr\Teploměr\obj\Debug\Teploměr.Properties.Resources.resources
+C:\Users\Martin\Desktop\forms project\Teplota finally\Teploměr\Teploměr\obj\Debug\Teploměr.csproj.GenerateResource.cache
+C:\Users\Martin\Desktop\forms project\Teplota finally\Teploměr\Teploměr\obj\Debug\Teploměr.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Desktop\forms project\Teplota finally\Teploměr\Teploměr\obj\Debug\Teploměr.exe
+C:\Users\Martin\Desktop\forms project\Teplota finally\Teploměr\Teploměr\obj\Debug\Teploměr.pdb
+C:\Users\Martin\Desktop\forms project\Teplota finally\Teploměr\Teploměr\obj\Debug\Teploměr.csproj.AssemblyReference.cache
